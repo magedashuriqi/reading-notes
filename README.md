@@ -3,11 +3,11 @@
 
 ### ***Introduction***
 
-#### One of the most important things in the world is *how do we think!*. Its nececary to understand all the ideas that enter to our brain and how to deal with it
+One of the most important things in the world is *how do we think!*. Its nececary to understand all the ideas that enter to our brain and how to deal with it
 
 ### ***Types of people***
 
-#### some people use the way of avoiding, prefering the comfortable area, do not need to have pain in there life, so the did not make any great sucess. The other start there life with the role `no pain, no gain`  so they leave the comfortable area, find the root causes of the problems, don not has a bad judgment on there selves, but has good *criticism*
+some people use the way of avoiding, prefering the comfortable area, do not need to have pain in there life, so the did not make any great sucess. The other start there life with the role `no pain, no gain`  so they leave the comfortable area, find the root causes of the problems, don not has a bad judgment on there selves, but has good *criticism*
 
 ### ***Instance gratification monkey syndrome***
 
