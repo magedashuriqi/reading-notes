@@ -1,5 +1,4 @@
-# reading-notes
-## growth mindest
+# Growth mindest
 
 ### ***Introduction***
 
