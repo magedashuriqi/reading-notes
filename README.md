@@ -2,7 +2,8 @@
 
 ### ***Introduction***
 
-One of the most important things in the world is *how do we think!*. Its nececary to understand all the ideas that enter to our brain and how to deal with it
+One of the most important things in the world is *how do we think!*. Its nececary to understand all the ideas that enter to our brain and how to deal with it.
+The growth mindest is the faith of that you can do things which need intelligence by practicing and trying.
 
 ### ***Types of people***
 
