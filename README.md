@@ -1,9 +1,9 @@
-# Growth mindest
+# Growth mindset
 
 ### ***Introduction***
 
 One of the most important things in the world is *how do we think!*. Its nececary to understand all the ideas that enter to our brain and how to deal with it.
-The growth mindest is the faith of that you can do things which need intelligence by practicing and trying.
+The growth mindset is the faith of that you can do things which need intelligence by practicing and trying.
 
 ### ***Types of people***
 
@@ -16,7 +16,7 @@ We can said that this is a situation we all know, when we have some thing we lov
 
 ### ***Some advices***
 
-These are thigs that I reminder my self with them to keep growth mindest
+These are thigs that I reminder my self with them to keep growth mindset, I produce it for you as an advice:
 
 - you should have enough time to build your strength feature
   - by reading books, and write diary
