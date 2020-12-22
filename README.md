@@ -4,8 +4,8 @@
 
 name | raeds
 -----|-------
-read 1 | [read 1](https://magedashuriqi.github.io/reading-notes/read0)
-read 2 | [read 2](https://magedashuriqi.github.io/reading-notes/editors)
-read 3 | [read 3](https://magedashuriqi.github.io/reading-notes/growth)
-read 4 | [read 4](https://magedashuriqi.github.io/reading-notes/git)
-read 5 | [read 5](https://magedashuriqi.github.io/reading-notes/Read4)
+Text editor | [read 1](https://magedashuriqi.github.io/reading-notes/read0)
+Markdown | [read 2](https://magedashuriqi.github.io/reading-notes/editors)
+Growth mindset | [read 3](https://magedashuriqi.github.io/reading-notes/growth)
+Git & GitHub | [read 4](https://magedashuriqi.github.io/reading-notes/git)
+HTML | [read 5](https://magedashuriqi.github.io/reading-notes/Read4)
