@@ -1,7 +1,7 @@
 # ***Steps to write a script for a web page***
 -	When you use java script in html file, the best way to do that is to create file in the same repository but with name ending with “.jt” extension.
 -	Add “<script></script>” and write between them what you want to write, this element in html tell the browser to load the file of java script.
-#***Java script***
+# ***Java script***
 Java is a programming language, used to make the websites more interactive, and deal with three ypes of data:
 -	Strings: group of characters that located between two single quotations.
 -	Numeric, or Numbers: the numbers (1,2,3..etc.), and the operation symbols like (*/+/-).
