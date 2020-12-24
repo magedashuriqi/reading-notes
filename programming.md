@@ -13,3 +13,13 @@ Java script is a functional programming language, the main block of it is the sc
   you can do that by split the goal out into related group of tasks
 - Code each step: 
 write it in away that computer can understand it
+
+# *Expressions and Operators*
+- Ther are two types of expression, one of them assign one value to the varibles, and the other assign value by using two or more values.
+Both of them using `Equal Sign "="`.
+- We have also some types of operator: 
+  * assignment operators, which is the equal sign.
+  * Comparasion operators, like: ">,<,
+  * Arithmatics operator, like: "+,-,*,/"
+  * string operator, like: "+"
+
