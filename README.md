@@ -13,3 +13,4 @@ Java script 1 | [read 06a-1](https://magedashuriqi.github.io/Class-06-JS/add-con
 Java script 2 | [read 06a-2](https://magedashuriqi.github.io/reading-notes/read06)
 About comouters | [read 06-2](https://magedashuriqi.github.io/reading-notes/comp)
 Programming with java |[read 07](https://magedashuriqi.github.io/reading-notes/programming)
+opreators & loop | [read 08](https://magedashuriqi.github.io/reading-notes/opreators&loop)
