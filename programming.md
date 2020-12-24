@@ -14,7 +14,7 @@ Java script is a functional programming language, the main block of it is the sc
 - Code each step: 
 Write it in a way that computer can understand it
 
-# *Expressions and Operators*
+## *Expressions and Operators*
 - Ther are two types of expression, one of them assign one value to the varibles, and the other assign value by using two or more values.
 Both of them using `Equal Sign "="`.
 - We have also some types of operator: 
