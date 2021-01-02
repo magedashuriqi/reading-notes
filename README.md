@@ -1,6 +1,6 @@
 # Reading notes
 
-###  *Reading without take notes, is like catch a fish and then let it go, Al emam al Shafe'e -god's mercy on him- said:*
+###  *Reading without take notes, is like catch a fish and then let it go, al emam al Shafe'e -god's mercy on him- said:*
  >"العلمُ صيدٌ والكتابة قيد
 
 Which mean that writig save the reading which we done, to be memorize always, this notes written for that reason, and it's a type of work done by software development course.
