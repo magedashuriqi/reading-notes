@@ -1,10 +1,16 @@
-# My Reading notes
-## Mageda Al-Shuriqi
-### This page show the raeds done 
+# Reading notes
 
-name | raeds
+###  *Reading without take notes, is like catch a fish and then let it go, Al emam al Shafe'e -god's mercy on him- said:*
+ >"العلمُ صيدٌ والكتابة قيد
+
+Which mean that writig save the reading which we done, to be memorize always, this notes written for that reason, and it's a type of work done by software development course.
+
+-------------
+### | *Code 102 Reading Notes* 
+
+ **`Title`** | **`Raeds link`**                       
 -----|-------
-Text editor | [read 1](https://magedashuriqi.github.io/reading-notes/read0)
+ Text editor | [read 1](https://magedashuriqi.github.io/reading-notes/read0)
 Markdown | [read 2](https://magedashuriqi.github.io/reading-notes/editors)
 Growth mindset | [read 3](https://magedashuriqi.github.io/reading-notes/growth)
 Git & GitHub | [read 4](https://magedashuriqi.github.io/reading-notes/git)
@@ -15,3 +21,10 @@ About comouters | [read 06-2](https://magedashuriqi.github.io/reading-notes/comp
 Programming with java |[read 07](https://magedashuriqi.github.io/reading-notes/read07)
 opreators & loop | [read 08](https://magedashuriqi.github.io/reading-notes/opreators&loop)
 CSS |[read 05](https://magedashuriqi.github.io/reading-notes/Color-css)
+
+---------------------
+### | *Code 201 Reading Notes*
+
+  **`Title`** | **`Raeds link`**    
+ -----------|-----------------           
+ Html & Java| [class-01](https://magedashuriqi.github.io/reading-notes/class-01)
