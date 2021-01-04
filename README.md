@@ -28,3 +28,4 @@ CSS |[read 05](https://magedashuriqi.github.io/reading-notes/Color-css)
   **`Title`** | **`Raeds link`**    
  -----------|-----------------           
  Html & Java| [class-01](https://magedashuriqi.github.io/reading-notes/class-01)
+basics in java & html| [read-02](https://magedashuriqi.github.io/reading-notes/basics)
