@@ -34,3 +34,5 @@ Images,Colors & Texts| [read05-201](https://magedashuriqi.github.io/reading-note
 Document Object Model| [read06-201](https://magedashuriqi.github.io/reading-notes/read-06-201)
 CSS Layout| [read08-201](https://magedashuriqi.github.io/reading-notes/read08-201)
 lists, forms & events| [read09-201](https://magedashuriqi.github.io/reading-notes/read09-201)
+Debugging| [read10-201](https://magedashuriqi.github.io/reading-notes/read10-201)
+Images and practical information| [read11-201](https://magedashuriqi.github.io/reading-notes/read11-201)
