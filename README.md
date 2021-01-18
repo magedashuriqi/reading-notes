@@ -36,3 +36,4 @@ CSS Layout| [read08-201](https://magedashuriqi.github.io/reading-notes/read08-20
 lists, forms & events| [read09-201](https://magedashuriqi.github.io/reading-notes/read09-201)
 Debugging| [read10-201](https://magedashuriqi.github.io/reading-notes/read10-201)
 Images and practical information| [read11-201](https://magedashuriqi.github.io/reading-notes/read11-201)
+Charts on webpages| [read12-201](https://magedashuriqi.github.io/reading-notes/read12-201)
