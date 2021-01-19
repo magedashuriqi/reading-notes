@@ -37,3 +37,4 @@ lists, forms & events| [read09-201](https://magedashuriqi.github.io/reading-note
 Debugging| [read10-201](https://magedashuriqi.github.io/reading-notes/201-reads/read10-201)
 Images and practical information| [read11-201](https://magedashuriqi.github.io/reading-notes/201-reads/read11-201)
 Charts on webpages| [read12-201](https://magedashuriqi.github.io/reading-notes/201-reads/read12-201)
+Local storage| [read13-201](https://magedashuriqi.github.io/reading-notes/201-reads/read13-201)
