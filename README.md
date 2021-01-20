@@ -39,3 +39,4 @@ Images and practical information| [read11-201](https://magedashuriqi.github.io/r
 Charts on webpages| [read12-201](https://magedashuriqi.github.io/reading-notes/201-reads/read12-201)
 Local storage| [read13-201](https://magedashuriqi.github.io/reading-notes/201-reads/read13-201)
 Team worker| [read14-201](https://magedashuriqi.github.io/reading-notes/201-reads/read14-201)
+Transition| [read14a-201](https://magedashuriqi.github.io/reading-notes/201-reads/read14a-201)
